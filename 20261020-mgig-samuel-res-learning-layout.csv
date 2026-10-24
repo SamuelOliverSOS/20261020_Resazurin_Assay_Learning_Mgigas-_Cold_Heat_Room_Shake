@@ -1,0 +1,49 @@
+plate_ID,plate_well,is_blank,family_ID.group,sample_ID.group,treatment.group,exclude_from_analysis,exclude_reason,width_mm.measurement,length_mm.measurement,weight_mg.measurement,area_mm2.measurement,area_note
+plate-C,A01,TRUE,,C-A01,11_Celsuis,FALSE,,,,,,blank
+plate-C,A02,FALSE,,C-A02,11_Celsuis,FALSE,,,,,197.815,
+plate-C,A03,FALSE,,C-A03,11_Celsuis,FALSE,,,,,168.887,
+plate-C,A04,FALSE,,C-A04,11_Celsuis,FALSE,,,,,136.952,
+plate-C,B01,FALSE,,C-B01,11_Celsuis,FALSE,,,,,145.161,
+plate-C,B02,FALSE,,C-B02,11_Celsuis,FALSE,,,,,184.299,
+plate-C,B03,FALSE,,C-B03,11_Celsuis,FALSE,,,,,138.432,
+plate-C,B04,FALSE,,C-B04,11_Celsuis,FALSE,,,,,153.174,
+plate-C,C01,FALSE,,C-C01,11_Celsuis,FALSE,,,,,167.002,
+plate-C,C02,FALSE,,C-C02,11_Celsuis,FALSE,,,,,167.106,
+plate-C,C03,FALSE,,C-C03,11_Celsuis,FALSE,,,,,115.817,"patchy area read, likely underestimate"
+plate-C,C04,FALSE,,C-C04,11_Celsuis,FALSE,,,,,93.988,"patchy area read, likely underestimate"
+plate-G,A01,TRUE,,G-A01,30_Celsuis,FALSE,,,,,,blank
+plate-G,A02,FALSE,,G-A02,30_Celsuis,FALSE,,,,,145.001,
+plate-G,A03,FALSE,,G-A03,30_Celsuis,FALSE,,,,,137.9,
+plate-G,A04,FALSE,,G-A04,30_Celsuis,FALSE,,,,,158.224,
+plate-G,B01,FALSE,,G-B01,30_Celsuis,FALSE,,,,,134.581,
+plate-G,B02,FALSE,,G-B02,30_Celsuis,FALSE,,,,,122.205,
+plate-G,B03,FALSE,,G-B03,30_Celsuis,FALSE,,,,,167.468,
+plate-G,B04,FALSE,,G-B04,30_Celsuis,FALSE,,,,,113.699,"patchy area read, likely underestimate"
+plate-G,C01,FALSE,,G-C01,30_Celsuis,FALSE,,,,,184.843,
+plate-G,C02,FALSE,,G-C02,30_Celsuis,FALSE,,,,,119.921,
+plate-G,C03,FALSE,,G-C03,30_Celsuis,FALSE,,,,,179.367,
+plate-G,C04,FALSE,,G-C04,30_Celsuis,FALSE,,,,,127.553,"patchy area read, likely underestimate"
+plate-S,A01,TRUE,,S-A01,21_Celsuis_Shake,FALSE,,,,,,blank
+plate-S,A02,FALSE,,S-A02,21_Celsuis_Shake,FALSE,,,,,104.308,
+plate-S,A03,FALSE,,S-A03,21_Celsuis_Shake,FALSE,,,,,138.148,
+plate-S,A04,FALSE,,S-A04,21_Celsuis_Shake,FALSE,,,,,155.272,
+plate-S,B01,FALSE,,S-B01,21_Celsuis_Shake,FALSE,,,,,184.367,
+plate-S,B02,FALSE,,S-B02,21_Celsuis_Shake,FALSE,,,,,152.408,
+plate-S,B03,FALSE,,S-B03,21_Celsuis_Shake,FALSE,,,,,130.178,
+plate-S,B04,FALSE,,S-B04,21_Celsuis_Shake,FALSE,,,,,120.041,
+plate-S,C01,FALSE,,S-C01,21_Celsuis_Shake,FALSE,,,,,105.988,
+plate-S,C02,FALSE,,S-C02,21_Celsuis_Shake,FALSE,,,,,192.663,
+plate-S,C03,FALSE,,S-C03,21_Celsuis_Shake,FALSE,,,,,114.426,
+plate-S,C04,FALSE,,S-C04,21_Celsuis_Shake,FALSE,,,,,145.805,
+plate-F,A01,TRUE,,E-A01,21_Celsuis,FALSE,,,,,,blank
+plate-F,A02,FALSE,,E-A02,21_Celsuis,FALSE,,,,,150.548,
+plate-F,A03,FALSE,,E-A03,21_Celsuis,FALSE,,,,,146.063,
+plate-F,A04,FALSE,,E-A04,21_Celsuis,FALSE,,,,,156.003,
+plate-F,B01,FALSE,,E-B01,21_Celsuis,FALSE,,,,,122.991,"patchy area read, likely underestimate"
+plate-F,B02,FALSE,,E-B02,21_Celsuis,FALSE,,,,,134.423,
+plate-F,B03,FALSE,,E-B03,21_Celsuis,FALSE,,,,,161.117,
+plate-F,B04,FALSE,,E-B04,21_Celsuis,FALSE,,,,,126.72,"patchy area read, likely underestimate"
+plate-F,C01,FALSE,,E-C01,21_Celsuis,FALSE,,,,,138.209,
+plate-F,C02,FALSE,,E-C02,21_Celsuis,FALSE,,,,,170.874,"patchy area read, likely underestimate"
+plate-F,C03,FALSE,,E-C03,21_Celsuis,FALSE,,,,,117.03,"patchy area read, likely underestimate"
+plate-F,C04,FALSE,,E-C04,21_Celsuis,FALSE,,,,,128.849,
