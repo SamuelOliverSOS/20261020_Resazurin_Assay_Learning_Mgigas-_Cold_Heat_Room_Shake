@@ -8,7 +8,7 @@ output:
 
 # Background
 
-On 10-19-2026, juvenile *Magallana gigas* from a single family were assigned to four distinct conditions; one 12 well plate was assigned to each condition; (plates 'C', 'E','S','F'); 11 oysters were assigned to each plate, one per each well except the upper left well of each plate, which was let as a blank. 30 ppt sea water solution was put into all wells. Oysters remained in their initial treatment conditions of 30C, 21C and shaking, 21C, and 11C for approcimately 25 hours before they were transferred to plates with 4 ml of Resasurin solution each. Initial reads were done on the plate reader at T0.0, all plates were transferred to the incubator set at 36 C and reread at 0.5 hours and 1.0 hours. 
+On 10-19-2026, juvenile *Magallana gigas* from a single family were assigned to four distinct conditions; one 12 well plate was assigned to each condition; (plates 'C', 'E','S','F'); 11 oysters were assigned to each plate, one per each well except the upper left well of each plate, which was let as a blank. 30 ppt sea water solution was put into all wells. Oysters remained in their initial treatment conditions of 30C, 21C and shaking, 21C, and 11C for approximately 25 hours before they were transferred to plates with 4 ml of Resazurin solution each. Initial reads were done on the plate reader at T0.0, all plates were transferred to the incubator set at 36 C and reread at 0.5 hours and 1.0 hours. Thank you to Sam White and Steven Roberts for your mentorship, assistance, and time!
 ## Where the timepoint comes from
 
 Two layouts are supported, and the script auto-detects which one applies:
